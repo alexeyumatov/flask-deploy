@@ -1,1 +1,4 @@
+SQLAlchemy~=1.4.46
+Werkzeug~=2.2.2
 Flask~=2.2.2
+WTForms~=3.0.1
